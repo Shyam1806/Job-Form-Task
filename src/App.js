@@ -1,4 +1,3 @@
-import './App.css';
 import "../src/input.css";
 import React from 'react';
 import Stepformone from './components/stepformone';
